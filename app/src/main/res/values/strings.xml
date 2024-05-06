@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">imad 2</string>
+    <string name="get_started">Get started</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_simon_your_tamagotchi_app">Welcome to Simon, Your Tamagotchi App</string>
+    <string name="feed">Feed</string>
+    <string name="clean">Clean</string>
+    <string name="play">Play</string>
+    <string name="todo2">TODO</string>
+    <string name="feed1">Feed</string>
+    <string name="play1">Play</string>
+    <string name="clean1">Clean</string>
+    <string name="husk">TODO</string>
+    <string name="hunger">Hunger</string>
+    <string name="clean2">Clean</string>
+    <string name="happiness">Happiness</string>
+</resources>
